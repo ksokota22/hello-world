@@ -2,6 +2,6 @@
 
 # informatika za knjižnice i arhive
 
-[###1. Instalacija i postavljanje 1-radno-okružje.md 
+[###1. Instalacija i postavljanje 1-radno-okruzje.md 
 # hello world
 Nešto nešto nešto izrađen na [Link na GitHub] (http://www.github.com).
